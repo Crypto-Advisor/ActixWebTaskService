@@ -1,0 +1,10 @@
+/Users/adrien/Desktop/projects/ActixWebTaskService/target/debug/deps/aws_smithy_json-fad616634b206235.rmeta: /Users/adrien/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-smithy-json-0.49.0/src/lib.rs /Users/adrien/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-smithy-json-0.49.0/src/deserialize.rs /Users/adrien/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-smithy-json-0.49.0/src/deserialize/error.rs /Users/adrien/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-smithy-json-0.49.0/src/deserialize/token.rs /Users/adrien/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-smithy-json-0.49.0/src/escape.rs /Users/adrien/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-smithy-json-0.49.0/src/serialize.rs
+
+/Users/adrien/Desktop/projects/ActixWebTaskService/target/debug/deps/aws_smithy_json-fad616634b206235.d: /Users/adrien/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-smithy-json-0.49.0/src/lib.rs /Users/adrien/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-smithy-json-0.49.0/src/deserialize.rs /Users/adrien/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-smithy-json-0.49.0/src/deserialize/error.rs /Users/adrien/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-smithy-json-0.49.0/src/deserialize/token.rs /Users/adrien/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-smithy-json-0.49.0/src/escape.rs /Users/adrien/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-smithy-json-0.49.0/src/serialize.rs
+
+/Users/adrien/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-smithy-json-0.49.0/src/lib.rs:
+/Users/adrien/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-smithy-json-0.49.0/src/deserialize.rs:
+/Users/adrien/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-smithy-json-0.49.0/src/deserialize/error.rs:
+/Users/adrien/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-smithy-json-0.49.0/src/deserialize/token.rs:
+/Users/adrien/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-smithy-json-0.49.0/src/escape.rs:
+/Users/adrien/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-smithy-json-0.49.0/src/serialize.rs:

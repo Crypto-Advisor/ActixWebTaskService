@@ -1,0 +1,11 @@
+/Users/adrien/Desktop/projects/ActixWebTaskService/target/debug/deps/futures_task-87c5db8910ab04f4.rmeta: /Users/adrien/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.24/src/lib.rs /Users/adrien/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.24/src/spawn.rs /Users/adrien/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.24/src/arc_wake.rs /Users/adrien/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.24/src/waker.rs /Users/adrien/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.24/src/waker_ref.rs /Users/adrien/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.24/src/future_obj.rs /Users/adrien/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.24/src/noop_waker.rs
+
+/Users/adrien/Desktop/projects/ActixWebTaskService/target/debug/deps/futures_task-87c5db8910ab04f4.d: /Users/adrien/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.24/src/lib.rs /Users/adrien/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.24/src/spawn.rs /Users/adrien/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.24/src/arc_wake.rs /Users/adrien/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.24/src/waker.rs /Users/adrien/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.24/src/waker_ref.rs /Users/adrien/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.24/src/future_obj.rs /Users/adrien/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.24/src/noop_waker.rs
+
+/Users/adrien/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.24/src/lib.rs:
+/Users/adrien/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.24/src/spawn.rs:
+/Users/adrien/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.24/src/arc_wake.rs:
+/Users/adrien/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.24/src/waker.rs:
+/Users/adrien/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.24/src/waker_ref.rs:
+/Users/adrien/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.24/src/future_obj.rs:
+/Users/adrien/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.24/src/noop_waker.rs:
